@@ -10,5 +10,5 @@ if you want this to be removed, drop an email at `izan at srizan dot dev`.
 
 # cover
 
-<img src="https://i.imgur.com/mSxVU8i.jpeg">
+<img src="https://i.imgur.com/IvMXg66.jpg">
 my apologies for such a bad camera
